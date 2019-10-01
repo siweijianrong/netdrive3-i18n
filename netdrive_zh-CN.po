@@ -10,147 +10,147 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "添加驱动器"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "存储类型"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "连接"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "选项"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "保存身份验证信息"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "远程路径"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "浏览"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "标签"
 
 #: ../../NetDriveUI/adddrive.ui:277
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "挂载"
 
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "作为"
 
 #: ../../NetDriveUI/adddrive.ui:322
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "自动连接选项"
 
 #: ../../NetDriveUI/adddrive.ui:328
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "无自动挂载"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "挂载在启动上"
 
 #: ../../NetDriveUI/adddrive.ui:348
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "登录时挂载"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "上传选项"
 
 #: ../../NetDriveUI/adddrive.ui:364
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "在资源管理器中使用动态上传"
 
 #: ../../NetDriveUI/adddrive.ui:374
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "使用后台上传"
 
 #: ../../NetDriveUI/adddrive.ui:387
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "只读选项"
 
 #: ../../NetDriveUI/adddrive.ui:393
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "可写驱动器"
 
 #: ../../NetDriveUI/adddrive.ui:403
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "只读驱动器"
 
 #: ../../NetDriveUI/adddrive.ui:413
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "高级选项"
 
 #: ../../NetDriveUI/adddrive.ui:419
 msgctxt "AddDrive|"
 msgid "Always retrieve file list from server"
-msgstr ""
+msgstr "始终从服务器检索文件列表"
 
 #: ../../NetDriveUI/adddrive.ui:426
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "作为可移动驱动器"
 
 #: ../../NetDriveUI/adddrive.ui:433
 msgctxt "AddDrive|"
 msgid "Treat files and folders starting with a dot as hidden"
-msgstr ""
+msgstr "将以点开头的文件和文件夹视为隐藏"
 
 #: ../../NetDriveUI/adddrive.ui:440
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr ""
+msgstr "使用静态文件系统（实验功能）"
 
 #: ../../NetDriveUI/adddrive.cpp:147
 msgctxt "AddDrive|"
 msgid "COLOR"
-msgstr ""
+msgstr "颜色"
 
 #: ../../NetDriveUI/adddrive.cpp:187
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "网络驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:188
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "本地驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:493
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
-msgstr ""
+msgstr "请按"连接"按钮设置连接信息。"
 
 #: ../../NetDriveUI/adddrive.cpp:519
 msgctxt "AddDrive|"
@@ -158,77 +158,79 @@ msgid ""
 "A drive name cannot contain any of the following characters:\n"
 "/ \\ [ ] : | < > + = ; , ? *"
 msgstr ""
+"驱动器名称不能包含以下任何字符:\n"
+"/ \\ [ ] : | < > + = ; , ? *"
 
 #: ../../NetDriveUI/adddrive.cpp:527
 msgctxt "AddDrive|"
 msgid "Please type in drive name."
-msgstr ""
+msgstr "请输入驱动器名称。"
 
 #: ../../NetDriveUI/adddrive.cpp:535
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
-msgstr ""
+msgstr "驱动器名称的最大长度为 50。"
 
 #: ../../NetDriveUI/adddrive.cpp:546
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr ""
+msgstr "请选择远程路径。"
 
 #: ../../NetDriveUI/adddrive.cpp:567
 msgctxt "AddDrive|"
 msgid "Please type in a different name since this drive name is already used."
-msgstr ""
+msgstr "请键入其他名称，因为已使用此驱动器名称。"
 
 #: ../../NetDriveUI/adddrive.cpp:1406
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
-msgstr ""
+msgstr "请按"连接"按钮重试。"
 
 #: ../../NetDriveUI/adddrive.cpp:1472
 msgctxt "AddDrive|"
 msgid "We do not support this protocol."
-msgstr ""
+msgstr "我们不支持此协议。"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
 msgid "Login"
-msgstr ""
+msgstr "登录"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:128
 msgctxt "BDLogin|"
 msgid "Email"
-msgstr ""
+msgstr "电子邮件"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:141
 msgctxt "BDLogin|"
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:148
 msgctxt "BDLogin|"
 msgid "Keep me logged in"
-msgstr ""
+msgstr "保持登录状态"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:182
 msgctxt "BDLogin|"
 msgid "OR"
-msgstr ""
+msgstr "或"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:203
 msgctxt "BDLogin|"
 msgid "Sign in with"
-msgstr ""
+msgstr "登录使用"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:273
 msgctxt "BDLogin|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ../../../ui_helper/bdui/bdpassphrase.ui:14
 #: ../../../ui_helper/bdui/bdpassphrase.ui:29
 msgctxt "BDPassphrase|"
 msgid "Passphrase"
-msgstr ""
+msgstr "口令"
 
 #: ../../ndagent/BDUser.cpp:509
 msgctxt "BDUser|"
@@ -236,187 +238,188 @@ msgid ""
 "Login failed because communication with the server failed. Please check your "
 "proxy or Internet connection."
 msgstr ""
+"登录失败，因为与服务器的通信失败。请检查您的代理或互联网连接"。
 
 #: ../../ndagent/BDUser.cpp:524
 msgctxt "BDUser|"
 msgid "Login failed. Please click here to check."
-msgstr ""
+msgstr "登录失败。请点击此处查看。"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:14
 msgctxt "BDUserPassword|"
 msgid "Authentication Information"
-msgstr ""
+msgstr "身份验证信息"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:29
 msgctxt "BDUserPassword|"
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: ../../../ui_helper/bdui/bduserpassword.ui:36
 msgctxt "BDUserPassword|"
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #: ../../NetDriveUI/qdriveitem.cpp:246
 msgctxt "ConfigureDrive|"
 msgid "Configure Drive"
-msgstr ""
+msgstr "配置驱动器"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
 msgid "ABOUT"
-msgstr ""
+msgstr "关于"
 
 #: ../../../ui_helper/bdui/flatabout.ui:112
 #, qt-format
 msgctxt "FlatAbout|"
 msgid "Licensed to %1"
-msgstr ""
+msgstr "许可给%1"
 
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr ""
+msgstr "试验"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:14
 msgctxt "FlatSettingContents|"
 msgid "SETTINGS"
-msgstr ""
+msgstr "设置"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:39
 msgctxt "FlatSettingContents|"
 msgid "GENERAL"
-msgstr ""
+msgstr "通用"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:60
 msgctxt "FlatSettingContents|"
 msgid "Start at login"
-msgstr ""
+msgstr "登录时开始"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr ""
+msgstr "新连接到远程存储时启动 Windows 资源管理器。"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "自动检查更新"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr ""
+msgstr "检查测试版的更新（如果可用）"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:99
 msgctxt "FlatSettingContents|"
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:119
 msgctxt "FlatSettingContents|"
 msgid "Help us translate!"
-msgstr ""
+msgstr "帮我们翻译！"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:144
 msgctxt "FlatSettingContents|"
 msgid "CACHE"
-msgstr ""
+msgstr "缓存"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:165
 msgctxt "FlatSettingContents|"
 msgid "NetDrive keeps temporary copies of remote files in local disk."
-msgstr ""
+msgstr "NetDrive 将远程文件的临时副本保存在本地磁盘中。"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:174
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr ""
+msgstr "缓存路径"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:191
 msgctxt "FlatSettingContents|"
 msgid "BROWSE"
-msgstr ""
+msgstr "浏览"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:225
 msgctxt "FlatSettingContents|"
 msgid "Use up to"
-msgstr ""
+msgstr "最多使用"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:235
 msgctxt "FlatSettingContents|"
 msgid "GB for disk cache"
-msgstr ""
+msgstr "用于磁盘缓存的GB"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:260
 msgctxt "FlatSettingContents|"
 msgid "LOG"
-msgstr ""
+msgstr "日志"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:281
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr ""
+msgstr "日志等级"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:314
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr ""
+msgstr "打开日志文件"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:340
 msgctxt "FlatSettingContents|"
 msgid "NETWORK"
-msgstr ""
+msgstr "网络"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:346
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr ""
+msgstr "代理设置"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
 msgid "Launch Finder when newly connected to a remote storage"
-msgstr ""
+msgstr "新连接到远程存储时的启动查找器"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:88
 msgctxt "FlatSettingContents|"
 msgid "Open Directory"
-msgstr ""
+msgstr "打开目录"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:113
 #, qt-format
 msgctxt "FlatSettingContents|"
 msgid "Currently %0.2f GB disk space available"
-msgstr ""
+msgstr "当前磁盘可用空间为%0.2f GB"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "%1 Update"
-msgstr ""
+msgstr "%1更新"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:74
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid "A new version of %1 is available!"
-msgstr ""
+msgstr "新版本%1可用！"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:81
 #, qt-format
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr ""
+msgstr "%1 %2现已可用 - 你有%3。你想立即下载吗？"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr ""
+msgstr "发布说明："
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
